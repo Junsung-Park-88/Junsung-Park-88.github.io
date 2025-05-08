@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Junsung Park, PhD
-subtitle: Doctorate in Engineering, Atmospheric Scientist
+title: PhD Junsung Park
+subtitle: Atmospheric Scientist
 ---
 
 My name is Junsung. I have the following qualities:
