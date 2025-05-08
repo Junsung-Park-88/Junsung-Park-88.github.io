@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Investigations of the Diurnal Variation of Vertical HCHO Profiles Based on MAX-DOAS Measurements in Beijing: Comparisons with OMI Vertical Column Data
+title: Investigations of the Diurnal Variation of Vertical HCHO Profiles Based on MAX-DOAS Measurements in Beijing: |Comparisons with OMI Vertical Column Data
 subtitle: Atmosphere 2015
 cover-img: /assets/img/Publication_1_1.jpg
 thumbnail-img: /assets/img/Publication_1.png
