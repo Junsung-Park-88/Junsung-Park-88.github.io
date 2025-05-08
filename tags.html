@@ -23,11 +23,12 @@ title: 'List of the publications or presentations'
         &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
     </h2>
 
+
     <div class="post-list">
         {%- assign post_count = site.tags[tag] | size -%}
         {%- for post in site.tags[tag] -%}
             <div class="tag-entry">
-                <span class="entry-number">{{ post_count - forloop.index0 }}. </span>
+                <span class="entry-number">{{ post_count }}. </span>
                 <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>  
                 {% if post.subtitle %}
                     <div class="entry-journal">
@@ -38,6 +39,7 @@ title: 'List of the publications or presentations'
                     <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
                 </div>
             </div>
+            {%- assign post_count = post_count | minus: 1 -%}
         {%- endfor -%}
     </div>
 {%- endfor -%}
