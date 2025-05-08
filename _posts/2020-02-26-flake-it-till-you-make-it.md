@@ -2,9 +2,9 @@
 layout: publication
 title: Flake it till you make it
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/publication_1.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/Publication_1_1.jpg
+thumbnail-img: /assets/img/Publication_1.png
+share-img: /assets/img/Publication_1_1.jpg
 tags: [publication]
 author: Hanlim Lee, Jaeyong Ryu, Hitoshi Irie, Seong-Ho Jang, Junsung Park, Wonei Choi and Hyunkee Hong
 ---
