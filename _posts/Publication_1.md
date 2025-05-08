@@ -1,7 +1,7 @@
 ---
 layout: publication
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Investigations of the Diurnal Variation of Vertical HCHO Profiles Based on MAX-DOAS Measurements in Beijing: Comparisons with OMI Vertical Column Data
+subtitle: Atmosphere 2015, 6, 1816-1832; doi: [10.3390/atmos6111816]
 cover-img: /assets/img/Publication_1_1.jpg
 thumbnail-img: /assets/img/Publication_1.png
 share-img: /assets/img/Publication_1_1.jpg
