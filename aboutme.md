@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Junsung Park, PhD
+subtitle: Doctorate in Engineering, Atmospheric Scientist
 ---
 
 My name is Inigo Montoya. I have the following qualities:
