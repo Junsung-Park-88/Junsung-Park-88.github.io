@@ -22,18 +22,22 @@ title: 'List of the publications or presentations'
         <i class="fas fa-tag" aria-hidden="true"></i>
         &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
     </h2>
+
     <div class="post-list">
+        {%- assign post_count = site.tags[tag] | size -%}
         {%- for post in site.tags[tag] -%}
             <div class="tag-entry">
-                <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
+                <span class="entry-number">{{ post_count - forloop.index0 }}. </span>
+                <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>  
                 {% if post.subtitle %}
                     <div class="entry-journal">
                         <span>{{ post.subtitle }}</span>
                     </div>
                 {% endif %}
-              <div class="entry-date">
-        <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
-    </div>
+                <div class="entry-date">
+                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
+                </div>
+            </div>
         {%- endfor -%}
     </div>
 {%- endfor -%}
