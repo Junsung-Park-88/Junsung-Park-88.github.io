@@ -19,13 +19,20 @@ author: Junsung Park
 # --- List of links in the navigation bar --- #
 ###############################################
 
+#navbar-links:
+#  About Me: "aboutme"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  ABOUT ME: "aboutme"
+  Educations: "educations"
+  Experiences:
+    - Professional Experiences: "professional experiences"
+    - Research Experiences: "research experiences"
+  Achievement: "achievement"
+  
 ################
 # --- Logo --- #
 ################
