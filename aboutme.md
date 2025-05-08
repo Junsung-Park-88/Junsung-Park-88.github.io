@@ -6,7 +6,7 @@ subtitle: Doctorate in Engineering, Atmospheric Scientist
 
 My name is Junsung. I have the following qualities:
 
-I am a researcher specializing in retrieving and analyzing atmospheric pollutants using satellite data. I hold a Ph.D. in Engineering, focusing primarily on satellite-based monitoring of air pollutants such as NO₂, SO₂, and O₃.
+"I am a researcher specializing in retrieving and analyzing atmospheric pollutants using satellite data. I hold a Ph.D. in Engineering, focusing primarily on satellite-based monitoring of air pollutants such as NO₂, SO₂, and O₃.
 
 My research extends beyond satellite data, encompassing quantitative analyses of long-range transported sulfur dioxide (SO₂) using satellite observations, as well as sensitivity assessments of formaldehyde (HCHO) retrievals from ground-based Pandora instruments. Additionally, I have extensive experience integrating in-situ observational data with ground-based remote sensing instruments such as MAX-DOAS and Pandora to validate satellite retrievals and assess regional air quality trends.
 
@@ -18,7 +18,7 @@ Currently, I am a postdoctoral Research Fellow at the Center for Astrophysics | 
 
 My work emphasizes the integration of satellite observations with ground-based measurements to enhance the accuracy of air quality monitoring and to provide insights into regional and transboundary pollution transport.
 
-Feel free to reach out to discuss potential research collaborations or data analysis opportunities.
+Feel free to reach out to discuss potential research collaborations or data analysis opportunities."
 
 ### My story
 
