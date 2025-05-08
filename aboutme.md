@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PhD Junsung Park
+title: Dr. Junsung Park
 subtitle: Atmospheric Scientist
 ---
 
