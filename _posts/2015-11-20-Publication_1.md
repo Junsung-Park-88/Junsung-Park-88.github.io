@@ -2,9 +2,9 @@
 layout: publication
 title: Investigations of the Diurnal Variation of Vertical HCHO Profiles Based on MAX-DOAS Measurements in Beijing Comparisons with OMI Vertical Column Data
 subtitle: Atmosphere 2015
-cover-img: /assets/img/Publication_1_1.jpg
+cover-img: /assets/img/Publication_1_1.png
 thumbnail-img: /assets/img/Publication_1.png
-share-img: /assets/img/Publication_1_1.jpg
+share-img: /assets/img/Publication_1_1.png
 tags: [publication]
 author: Hanlim Lee, Jaeyong Ryu, Hitoshi Irie, Seong-Ho Jang, Junsung Park, Wonei Choi and Hyunkee Hong
 ---
