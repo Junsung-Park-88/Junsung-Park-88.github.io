@@ -1,18 +1,14 @@
 ---
-layout: post
+layout: publication
 title: Flake it till you make it
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/publication_1.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+tags: [publication]
+author: Hanlim Lee, Jaeyong Ryu, Hitoshi Irie, Seong-Ho Jang, Junsung Park, Wonei Choi and Hyunkee Hong
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
-
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
-
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
-
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Abstract: An investigation into the diurnal characteristics of vertical formaldehyde (HCHO) profiles was conducted based on multi-axis differential optical absorption
+spectroscopy (MAX-DOAS) measurements in Beijing during the CAREBEIJING campaign, covering a month-long period through August and September 2006. Vertical HCHO profiles were retrieved based on a combined differential optical absorption spectroscopy (DOAS) technique and an optimal estimation method (OEM). The HCHO volume-mixing ratio (VMR) was found to be highest in the layer from the surface up to an altitude of 1 km and to decrease with altitude above this layer. In all retrieved profiles, HCHO was not detected in the layer from 3–4 km. Over the diurnal cycle, the HCHO VMR values were generally highest at 15:00 local time (LT) and were lower in the morning and late afternoon. The mean HCHO VMRs were 6.17, 1.82, and 0.80 ppbv for the 0–1, 1–2, and 2–3-km layers, respectively, at 15:00 LT, whereas they were 3.54 (4.79), 1.06 (1.43), and 0.46 (0.63) ppbv for the 0–1, 1–2, and 2–3-km layers, respectively, at 09:00 (17:00) LT. The HCHO VMRs reached their highest values at 15:00 LT on August 19, which were 17.71, 5.20, and 2.31 ppbv for the 0–1, 1–2, and 2–3-km layers, respectively. This diurnal pattern implies that the photo-oxidation of volatile organic compounds (VOCs) was most active at 15:00 LT for several days during the campaign period. In a comparison of the derived HCHO VCDs with those obtained from the Ozone Monitoring Instrument (OMI) measurements, the HCHO vertical column density (VCD) values obtained from the OMI measurements tend to be smaller than those from the
+MAX-DOAS.
