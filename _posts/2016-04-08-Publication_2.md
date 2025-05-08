@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: post
 title: "Long-Range Transport of SO<sub>2</sub> from Continental Asia to Northeast Asia and the Northwest Pacific Ocean: Flow Rate Estimation Using OMI Data, Surface in Situ Data, and the HYSPLIT Model"
 subtitle: "Atmosphere 2016, 7, 53; doi: 10.3390/atmos7040053"
 cover-img: /assets/img/Publication_1_2.png
