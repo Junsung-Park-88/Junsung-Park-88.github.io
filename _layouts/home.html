@@ -47,8 +47,19 @@ layout: page
       </a>
 
       {% if post.author %}
-        <span>By <strong>{{ post.author | strip_html }}</strong></span>
+        <span>By 
+          {% assign authors = post.author | split: ',' %}
+          {% for author in authors %}
+            {% if author contains "Junsung Park" %}
+              <strong class="author-highlight">{{ author }}</strong>
+            {% else %}
+              <strong>{{ author }}</strong>
+            {% endif %}
+            {% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </span>
       {% endif %}
+      
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
         Posted on {{ post.date | date: date_format }}
