@@ -42,7 +42,27 @@ layout: base
       <div class="blog-post">
         {{ content }}
       </div>
-
+      
+      <div class="blog-post">
+        <!-- 이미지가 먼저 출력되도록 배치 -->
+        {% if page.cover-img %}
+          <div class="post-image">
+            <img src="{{ page.cover-img | relative_url }}" alt="{{ page.title | strip_html }}">
+          </div>
+        {% endif %} 
+        <!-- 그 다음에 제목과 부제목 출력 -->
+        <div class="post-header">
+          <h1 class="post-title">{{ page.title }}</h1>
+          {% if page.subtitle %}
+            <h3 class="post-subtitle">{{ page.subtitle }}</h3>
+          {% endif %}
+        </div>
+        <!-- 본문 내용 -->
+        <div class="post-content">
+          {{ content }}
+        </div>
+      </div>
+   
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>
