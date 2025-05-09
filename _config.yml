@@ -26,7 +26,7 @@ author: Junsung Park
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 navbar-links:
-  ABOUT ME: "aboutme"
+  About Me: "aboutme"
   Educations: "educations"
   Experiences:
     - Professional Experiences: "professional experiences"
