@@ -1,5 +1,5 @@
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-<!--
+<!--{# 상단 그림 출력 제거 #}
 {% if page.cover-img %}
   <div id="header-big-imgs" data-num-img={% if page.cover-img.first %}{{ page.cover-img.size }}{% else %}1{% endif %}
     {% for bigimg in page.cover-img %}
@@ -23,6 +23,7 @@
   <div class="container-md">
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <!--{# 상단 제목 부제목 저자 포스트 정보 출력 제거 #}
         <div class="{{ include.type }}-heading">
           <h1>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
           {% if page.subtitle %}
@@ -33,11 +34,11 @@
               <h2 class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2>
             {% endif %}
           {% endif %}
-          
           {% if include.type == "post" %} 
             {% if page.author %}
               By <strong>{{ page.author | strip_html }}</strong><br>
             {% endif%}
+          -->
             <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
