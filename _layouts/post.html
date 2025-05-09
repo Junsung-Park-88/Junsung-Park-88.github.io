@@ -38,10 +38,6 @@ layout: base
           {% endfor %}
         </div>
       {% endif %}
-
-      <div class="blog-post">
-        {{ content }}
-      </div>
       
       <div class="blog-post">
         <!-- 이미지가 먼저 출력되도록 배치 -->
@@ -56,6 +52,12 @@ layout: base
           {% if page.subtitle %}
             <h3 class="post-subtitle">{{ page.subtitle }}</h3>
           {% endif %}
+          <div class="post-meta">
+            {% if page.author %}
+              <p>By {{ page.author }}</p>
+            {% endif %}
+            <p>Published on {{ page.date | date: "%B %-d, %Y" }}</p>
+          </div>
         </div>
         <!-- 본문 내용 -->
         <div class="post-content">
